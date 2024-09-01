@@ -1,2 +1,1 @@
-Game of life
-Brian's Brain
+Game of life & Brian's Brain
