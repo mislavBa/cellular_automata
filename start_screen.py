@@ -19,7 +19,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Cellular Automaton Simulator")
 
 # Set up font
-font = pygame.font.SysFont(None, 48)
+font = pygame.font.SysFont(None, 36)
 
 # FPS
 FPS = 60
